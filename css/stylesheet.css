@@ -45,7 +45,7 @@ html, body {
 	padding: 10px;
 	overflow: scroll;
 	min-height: 174px;
-	max-height: auto;
+	max-height: 350px;
 }
 .btn{
 	margin: 2% 0;
